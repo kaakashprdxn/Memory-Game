@@ -114,7 +114,7 @@ li {
 
 @font-face {
     font-family: "avengers";
-    src: url(/assets/vendor/Fonts/AvengeanceHeroicAvengerBold-MM2J.ttf);
+    src: url(../vendor/Fonts/AvengeanceHeroicAvengerBold-MM2J.ttf);
 }
 
 
